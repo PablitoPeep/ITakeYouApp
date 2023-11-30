@@ -4,5 +4,4 @@ Integrantes:
 - Pablo Castañeda
 Sección: PGY4121-003D
 
-Keystore password: Charlie123
-App password: Yumi123
+Keystore password: Charlie123 | App password: Yumi123
