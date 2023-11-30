@@ -1,0 +1,59 @@
+ion-content {
+  --background: linear-gradient(to bottom, #1a1a1a, #212121); /* Degradado de colores */
+  color: #fff; /* Color de texto */
+  animation: slideIn 0.5s ease; /* Animación de deslizamiento */
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.subTitle {
+  font-size: 1.2rem;
+}
+
+ion-list {
+  margin: 20px;
+}
+
+ion-item {
+  background-color: rgba(255, 255, 255, 0.1); /* Color de fondo con transparencia */
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+ion-label {
+  color: #fff; /* Color de texto del label */
+}
+
+ion-input {
+  color: #fff; /* Color de texto del input */
+}
+
+
+
+ion-fab-button {
+  --background: #ff0844; /* Color de fondo del botón flotante */
+  color: #fff;
+}
+
+/* Estilos adicionales según sea necesario */
+.titulo{
+  font-family: titulo;
+}
+@keyframes slideIn {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

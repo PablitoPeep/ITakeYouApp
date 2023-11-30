@@ -1,0 +1,8 @@
+{
+  "name": "ITakeYouApp",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
