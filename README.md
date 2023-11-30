@@ -1,2 +1,8 @@
 # ITakeYouApp
-Examen transversal del Proyecto semestral para la asignatura de programación de aplicaciones móviles
+Integrantes: 
+- Joaquín Cárcamo
+- Pablo Castañeda
+Sección: PGY4121-003D
+
+Keystore password: Charlie123
+App password: Yumi123
